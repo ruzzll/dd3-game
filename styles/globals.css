@@ -37,7 +37,7 @@
   }
 
   .plano-cell {
-    @apply flex justify-center items-center w-16 h-16 bg-gray-300 dark:bg-opacity-15 rounded-lg font-bold text-3xl m-1 uppercase;
+    @apply flex justify-center items-center w-16 h-16 bg-gray-300 dark:bg-opacity-15 rounded-lg font-bold text-3xl m-1 uppercase dark:text-white;
   }
 
   .plano-success {
